@@ -1,4 +1,4 @@
-package org.example;
+package br.edu.iff;
 
 /**
  * Hello world!
